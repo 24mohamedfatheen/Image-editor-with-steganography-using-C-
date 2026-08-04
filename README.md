@@ -1,6 +1,7 @@
 # Image-editor-with-steganography-using-C-
 
 About project----
+
 A lightweight, 16-bit low-level image processing and steganography engine written in pure C for Turbo C / DOS environments.
 This tool parses uncompressed .ppm (P3 ASCII) image data directly into dynamic far-memory arrays, executes real-time matrix transformations, and features custom bitwise payload encryption.
 
