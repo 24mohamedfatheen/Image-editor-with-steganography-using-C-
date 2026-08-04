@@ -25,6 +25,8 @@ ASCII Art Generator: Converts RGB pixel brightness matrices into raw ASCII termi
 
 
 
+
+
 How to Run (Turbo C / DOSBox)---
 
 Clone or copy MAIN.C into your Turbo C BIN folder.
