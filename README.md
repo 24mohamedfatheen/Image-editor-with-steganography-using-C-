@@ -33,3 +33,11 @@ Clone or copy MAIN.C into your Turbo C BIN folder.
 Add a folder named images inside the BIN folder 
 Place a .ppm (P3 ASCII format) sample image inside images folder.
 Open Turbo C, compile, and run (Ctrl + F9).
+
+
+
+
+
+
+
+ps--- try converting the secret bmp file to ppm to view the secret message containing in it 😉
